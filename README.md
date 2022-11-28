@@ -16,7 +16,7 @@
  
 ☑️ 3º Rode primeiro o script dados testes, depois atualize o schema e veja se os dados foram armazenados corretamente;
 
-☑️ 4º Rode primeiro o script Teste join, having, group by, where, select e update. 
+☑️ 4º Rode o script Teste join, having, group by, where, select e update. 
 
 ## Importante
  
